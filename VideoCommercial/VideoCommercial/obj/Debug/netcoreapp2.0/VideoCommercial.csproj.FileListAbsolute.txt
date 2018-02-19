@@ -1,0 +1,11 @@
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\bin\Debug\netcoreapp2.0\VideoCommercial.deps.json
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\bin\Debug\netcoreapp2.0\VideoCommercial.runtimeconfig.json
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\bin\Debug\netcoreapp2.0\VideoCommercial.runtimeconfig.dev.json
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\bin\Debug\netcoreapp2.0\VideoCommercial.dll
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\bin\Debug\netcoreapp2.0\VideoCommercial.pdb
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\obj\Debug\netcoreapp2.0\VideoCommercial.csprojResolveAssemblyReference.cache
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\obj\Debug\netcoreapp2.0\VideoCommercial.csproj.CoreCompileInputs.cache
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\obj\Debug\netcoreapp2.0\VideoCommercial.AssemblyInfoInputs.cache
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\obj\Debug\netcoreapp2.0\VideoCommercial.AssemblyInfo.cs
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\obj\Debug\netcoreapp2.0\VideoCommercial.dll
+C:\Users\durguesh.alavani\Documents\Visual Studio 2017\Projects\VideoCommercial\VideoCommercial\obj\Debug\netcoreapp2.0\VideoCommercial.pdb
